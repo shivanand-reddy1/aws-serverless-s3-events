@@ -1,5 +1,7 @@
 # AWS Serverless S3 Events
 
+![AWS Serverless S3 Events](images/image1.jpeg)
+
 ## Description
 
 A comprehensive case study project exploring Amazon Web Services (AWS) serverless architecture with S3 event-driven processing for course CS3532.
